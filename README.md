@@ -1,5 +1,5 @@
 # Build a Linux kernel for Raspberry Pi 3 in 64bit
-[![Build Status](https://travis-ci.org/argent-smith/rpi64-kernel.svg?branch=master)](https://travis-ci.org/argent-smith/rpi64-kernel)
+[![Build Status](https://travis-ci.com/argent-smith/rpi64-kernel.svg?branch=master)](https://travis-ci.com/argent-smith/rpi64-kernel)
 
 This repo just builds a Linux kernel for Raspberry Pi 3 in 64bit. It uses the linux kernel provided by the upstream repo at https://github.com/raspberrypi/linux.
 
