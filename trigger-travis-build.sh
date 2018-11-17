@@ -6,11 +6,11 @@ set -x
 
 # prepare data for triggering Travis-CI
 TOKEN=xxx
-REPO='DieterReuter%2Frpi64-kernel'
+REPO='argent-smith%2Frpi64-kernel'
 BODY='{
 "request": {
   "branch":"master",
-  "message": "Build triggered by Dieter via API"
+  "message": "Build triggered by Pavel via API"
 }}'
 
 curl -s -X POST \
