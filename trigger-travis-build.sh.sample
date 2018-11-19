@@ -1,6 +1,5 @@
 #!/bin/bash
-set -e
-set -x
+set -ex
 
 # see: https://docs.travis-ci.com/user/triggering-builds
 
